@@ -1,0 +1,15 @@
+{
+  "name": "lab-04-registration-login-jwt",
+  "version": "1.0.0",
+  "description": "Lab 4: Registration, Login and JWT Authentication",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "sqlite3": "^6.0.1"
+  }
+}
